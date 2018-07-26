@@ -1,2 +1,3 @@
 # reception
-My firtht reprository
+
+Salom Mening ismim jahongir.
